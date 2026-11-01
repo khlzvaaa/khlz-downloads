@@ -18,7 +18,7 @@ case "${1:-}" in
 esac
 printf '\nДополнительные форматы khlz\n\n'
 printf 'Устанавливаются через Homebrew:\n'
-printf '  FFmpeg / ffprobe — аудио и видео\n  WebP — cwebp\n  libheif и плагины — AVIF\n  LibreOffice — PDF/A\n\n'
+printf '  FFmpeg / ffprobe — аудио и видео\n  WebP — cwebp\n  libheif и плагины — AVIF\n  LibreOffice — документы, таблицы, презентации и PDF/A\n\n'
 printf 'Требуются интернет и несколько гигабайт свободного места.\n'
 printf 'Компоненты будут доступны и другим приложениям на этом Mac.\n'
 printf 'Сам khlz не переустанавливается. Пароли и файлы не отправляются разработчику khlz.\n\n'
