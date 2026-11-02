@@ -5,7 +5,7 @@
 
 **Конвертация · Инструменты · Действия**
 
-[⬇ Скачать khlz 0.5.0](https://github.com/khlzvaaa/khlz-downloads/releases/download/v0.5.0/khlz-0.5.0-macos-arm64.zip)
+[⬇ Скачать khlz 0.5.1](https://github.com/khlzvaaa/khlz-downloads/releases/download/v0.5.1/khlz-0.5.1-macos-arm64.zip)
 
 macOS 14+ · Apple Silicon (M1 и новее) · Предварительная версия
 
