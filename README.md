@@ -5,7 +5,7 @@
 
 **Конвертация · Инструменты · Действия**
 
-[для MacOS](https://github.com/khlzvaaa/khlz-downloads/releases/download/v0.5.1/khlz-0.5.1-macos-arm64.zip) · [для Windows](https://github.com/khlzvaaa/khlz-downloads/releases/download/v0.6.1-windows/khlz-0.6.1-windows-x64.zip)
+[для MacOS](https://github.com/khlzvaaa/khlz-downloads/releases/download/v0.5.2/khlz-0.5.2-macos-arm64.zip) · [для Windows](https://github.com/khlzvaaa/khlz-downloads/releases/download/v0.6.2-windows/khlz-0.6.2-windows-x64.zip)
 
 macOS 14+ / Apple Silicon · Windows 10/11 / x64 · Предварительные версии
 
@@ -23,9 +23,13 @@ macOS 14+ / Apple Silicon · Windows 10/11 / x64 · Предварительны
 
 [Инструкция Windows, компоненты и ограничения](WINDOWS.md)
 
+**Удалить фон:** выделите изображение → **Ctrl → Actions → Удалить фон**. Программа создаст рядом отдельный PNG с прозрачностью, сохранив оригинал. Обработка локальная, модель входит в Windows-сборку.
+
 В Windows доступны **редакторы фото и видео с предпросмотром**: выделение области мышью, настройки изображения, воспроизведение и выбор интервала видео. Результаты сохраняются отдельными копиями. Если Windows не воспроизводит кодек, кадры можно просматривать по шкале времени через FFmpeg.
 
 ## macOS: файловые инструменты под рукой
+
+**Удалить фон:** начните перетаскивать изображение в Finder → нажмите **⌃ Control → Actions → Удалить фон**. Встроенный Vision создаст рядом отдельный PNG с прозрачным фоном; оригинал останется без изменений.
 
 Начните перетаскивать файл в Finder и удерживайте клавишу. Вокруг указателя появится круглое меню — отпустите файл над нужной командой.
 
