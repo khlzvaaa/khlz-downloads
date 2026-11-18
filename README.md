@@ -5,7 +5,7 @@
 
 **Конвертация · Инструменты · Действия**
 
-[для MacOS](https://github.com/khlzvaaa/khlz-downloads/releases/download/v0.5.3/khlz-0.5.3-macos-arm64.zip) · [для Windows](https://github.com/khlzvaaa/khlz-downloads/releases/download/v0.6.2-windows/khlz-0.6.2-windows-x64.zip)
+[для MacOS](https://github.com/khlzvaaa/khlz-downloads/releases/download/v0.5.4/khlz-0.5.4-macos-arm64.zip) · [для Windows](https://github.com/khlzvaaa/khlz-downloads/releases/download/v0.6.2-windows/khlz-0.6.2-windows-x64.zip)
 
 macOS 14+ / Apple Silicon · Windows 10/11 / x64 · Предварительные версии
 
