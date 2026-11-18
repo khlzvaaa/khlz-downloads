@@ -5,7 +5,7 @@
 
 **Конвертация · Инструменты · Действия**
 
-[для MacOS](https://github.com/khlzvaaa/khlz-downloads/releases/download/v0.5.1/khlz-0.5.1-macos-arm64.zip) · [для Windows](https://github.com/khlzvaaa/khlz-downloads/releases/download/v0.6.0-windows/khlz-0.6.0-windows-x64.zip)
+[для MacOS](https://github.com/khlzvaaa/khlz-downloads/releases/download/v0.5.1/khlz-0.5.1-macos-arm64.zip) · [для Windows](https://github.com/khlzvaaa/khlz-downloads/releases/download/v0.6.1-windows/khlz-0.6.1-windows-x64.zip)
 
 macOS 14+ / Apple Silicon · Windows 10/11 / x64 · Предварительные версии
 
@@ -22,6 +22,8 @@ macOS 14+ / Apple Silicon · Windows 10/11 / x64 · Предварительны
 Базовые изображения, текст, PDF и ZIP работают сразу. Аудио/видео требуют FFmpeg, офисные документы — LibreOffice. Отдельно устанавливать .NET не нужно. В меню Actions есть **«Отправить на телефон»**: в системном окне выберите **«Связь с телефоном» (Phone Link)** или подключённый телефон. На телефоне используется приложение **«Связь с Windows»**; устройства нужно заранее связать. Это Windows preview с неполным совпадением функций macOS и без подписи издателя.
 
 [Инструкция Windows, компоненты и ограничения](WINDOWS.md)
+
+В Windows доступны **редакторы фото и видео с предпросмотром**: выделение области мышью, настройки изображения, воспроизведение и выбор интервала видео. Результаты сохраняются отдельными копиями. Если Windows не воспроизводит кодек, кадры можно просматривать по шкале времени через FFmpeg.
 
 ## macOS: файловые инструменты под рукой
 
